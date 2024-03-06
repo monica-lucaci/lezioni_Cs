@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\utente\\source\\repos\\Lez02_03_TaskTemperatura\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CAB3FF3D-7091-4214-8167-02AF24E9E505}|Lez02_03_TaskTemperatura.csproj|c:\\users\\utente\\source\\repos\\lez02_03_tasktemperatura\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAB3FF3D-7091-4214-8167-02AF24E9E505}|Lez02_03_TaskTemperatura.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\source\\repos\\Lez02_03_TaskTemperatura\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\utente\\source\\repos\\Lez02_03_TaskTemperatura\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAApwD4AAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T13:22:49.455Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
