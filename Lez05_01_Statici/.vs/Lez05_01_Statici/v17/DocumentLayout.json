@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\utente\\source\\repos\\Lez05_01_Statici\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{42D90825-9745-4983-A0D9-BB229AFCC215}|Lez05_01_Statici.csproj|c:\\users\\utente\\source\\repos\\lez05_01_statici\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42D90825-9745-4983-A0D9-BB229AFCC215}|Lez05_01_Statici.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42D90825-9745-4983-A0D9-BB229AFCC215}|Lez05_01_Statici.csproj|c:\\users\\utente\\source\\repos\\lez05_01_statici\\classes\\automobile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42D90825-9745-4983-A0D9-BB229AFCC215}|Lez05_01_Statici.csproj|solutionrelative:classes\\automobile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Automobile.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\source\\repos\\Lez05_01_Statici\\Classes\\Automobile.cs",
+              "RelativeDocumentMoniker": "Classes\\Automobile.cs",
+              "ToolTip": "C:\\Users\\utente\\source\\repos\\Lez05_01_Statici\\Classes\\Automobile.cs",
+              "RelativeToolTip": "Classes\\Automobile.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAA/wBIAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T08:37:42.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\source\\repos\\Lez05_01_Statici\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\utente\\source\\repos\\Lez05_01_Statici\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T08:36:26.941Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
