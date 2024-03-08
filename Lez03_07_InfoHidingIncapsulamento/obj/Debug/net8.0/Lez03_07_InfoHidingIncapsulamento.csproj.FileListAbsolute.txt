@@ -1,0 +1,15 @@
+C:\Users\utente\source\repos\Lez03_07_InfoHidingIncapsulamento\obj\Debug\net8.0\Lez03_07_InfoHidingIncapsulamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\utente\source\repos\Lez03_07_InfoHidingIncapsulamento\obj\Debug\net8.0\Lez03_07_InfoHidingIncapsulamento.AssemblyInfoInputs.cache
+C:\Users\utente\source\repos\Lez03_07_InfoHidingIncapsulamento\obj\Debug\net8.0\Lez03_07_InfoHidingIncapsulamento.AssemblyInfo.cs
+C:\Users\utente\source\repos\Lez03_07_InfoHidingIncapsulamento\obj\Debug\net8.0\Lez03_07_InfoHidingIncapsulamento.csproj.CoreCompileInputs.cache
+C:\Users\utente\source\repos\Lez03_07_InfoHidingIncapsulamento\obj\Debug\net8.0\Lez03_07_InfoHidingIncapsulamento.sourcelink.json
+C:\Users\utente\source\repos\Lez03_07_InfoHidingIncapsulamento\bin\Debug\net8.0\Lez03_07_InfoHidingIncapsulamento.exe
+C:\Users\utente\source\repos\Lez03_07_InfoHidingIncapsulamento\bin\Debug\net8.0\Lez03_07_InfoHidingIncapsulamento.deps.json
+C:\Users\utente\source\repos\Lez03_07_InfoHidingIncapsulamento\bin\Debug\net8.0\Lez03_07_InfoHidingIncapsulamento.runtimeconfig.json
+C:\Users\utente\source\repos\Lez03_07_InfoHidingIncapsulamento\bin\Debug\net8.0\Lez03_07_InfoHidingIncapsulamento.dll
+C:\Users\utente\source\repos\Lez03_07_InfoHidingIncapsulamento\bin\Debug\net8.0\Lez03_07_InfoHidingIncapsulamento.pdb
+C:\Users\utente\source\repos\Lez03_07_InfoHidingIncapsulamento\obj\Debug\net8.0\Lez03_07_InfoHidingIncapsulamento.dll
+C:\Users\utente\source\repos\Lez03_07_InfoHidingIncapsulamento\obj\Debug\net8.0\refint\Lez03_07_InfoHidingIncapsulamento.dll
+C:\Users\utente\source\repos\Lez03_07_InfoHidingIncapsulamento\obj\Debug\net8.0\Lez03_07_InfoHidingIncapsulamento.pdb
+C:\Users\utente\source\repos\Lez03_07_InfoHidingIncapsulamento\obj\Debug\net8.0\Lez03_07_InfoHidingIncapsulamento.genruntimeconfig.cache
+C:\Users\utente\source\repos\Lez03_07_InfoHidingIncapsulamento\obj\Debug\net8.0\ref\Lez03_07_InfoHidingIncapsulamento.dll

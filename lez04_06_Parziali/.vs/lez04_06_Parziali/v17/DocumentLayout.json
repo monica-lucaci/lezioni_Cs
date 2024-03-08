@@ -1,0 +1,81 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\utente\\source\\repos\\lez04_06_Parziali\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C4C60108-C0B0-406E-9CE0-C6D0CF9A20D2}|lez04_06_Parziali.csproj|c:\\users\\utente\\source\\repos\\lez04_06_parziali\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4C60108-C0B0-406E-9CE0-C6D0CF9A20D2}|lez04_06_Parziali.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4C60108-C0B0-406E-9CE0-C6D0CF9A20D2}|lez04_06_Parziali.csproj|c:\\users\\utente\\source\\repos\\lez04_06_parziali\\classes\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4C60108-C0B0-406E-9CE0-C6D0CF9A20D2}|lez04_06_Parziali.csproj|solutionrelative:classes\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4C60108-C0B0-406E-9CE0-C6D0CF9A20D2}|lez04_06_Parziali.csproj|c:\\users\\utente\\source\\repos\\lez04_06_parziali\\classes\\personaanagrafica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4C60108-C0B0-406E-9CE0-C6D0CF9A20D2}|lez04_06_Parziali.csproj|solutionrelative:classes\\personaanagrafica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PersonaAnagrafica.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\source\\repos\\lez04_06_Parziali\\Classes\\PersonaAnagrafica.cs",
+              "RelativeDocumentMoniker": "Classes\\PersonaAnagrafica.cs",
+              "ToolTip": "C:\\Users\\utente\\source\\repos\\lez04_06_Parziali\\Classes\\PersonaAnagrafica.cs",
+              "RelativeToolTip": "Classes\\PersonaAnagrafica.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T13:48:59.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\source\\repos\\lez04_06_Parziali\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\utente\\source\\repos\\lez04_06_Parziali\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T13:43:42.832Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Persona.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\source\\repos\\lez04_06_Parziali\\Classes\\Persona.cs",
+              "RelativeDocumentMoniker": "Classes\\Persona.cs",
+              "ToolTip": "C:\\Users\\utente\\source\\repos\\lez04_06_Parziali\\Classes\\Persona.cs",
+              "RelativeToolTip": "Classes\\Persona.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBcAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T13:44:45.602Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

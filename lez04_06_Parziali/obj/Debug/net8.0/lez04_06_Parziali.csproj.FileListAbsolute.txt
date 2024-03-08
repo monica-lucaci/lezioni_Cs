@@ -1,0 +1,15 @@
+C:\Users\utente\source\repos\lez04_06_Parziali\bin\Debug\net8.0\lez04_06_Parziali.exe
+C:\Users\utente\source\repos\lez04_06_Parziali\bin\Debug\net8.0\lez04_06_Parziali.deps.json
+C:\Users\utente\source\repos\lez04_06_Parziali\bin\Debug\net8.0\lez04_06_Parziali.runtimeconfig.json
+C:\Users\utente\source\repos\lez04_06_Parziali\bin\Debug\net8.0\lez04_06_Parziali.dll
+C:\Users\utente\source\repos\lez04_06_Parziali\bin\Debug\net8.0\lez04_06_Parziali.pdb
+C:\Users\utente\source\repos\lez04_06_Parziali\obj\Debug\net8.0\lez04_06_Parziali.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\utente\source\repos\lez04_06_Parziali\obj\Debug\net8.0\lez04_06_Parziali.AssemblyInfoInputs.cache
+C:\Users\utente\source\repos\lez04_06_Parziali\obj\Debug\net8.0\lez04_06_Parziali.AssemblyInfo.cs
+C:\Users\utente\source\repos\lez04_06_Parziali\obj\Debug\net8.0\lez04_06_Parziali.csproj.CoreCompileInputs.cache
+C:\Users\utente\source\repos\lez04_06_Parziali\obj\Debug\net8.0\lez04_06_Parziali.sourcelink.json
+C:\Users\utente\source\repos\lez04_06_Parziali\obj\Debug\net8.0\lez04_06_Parziali.dll
+C:\Users\utente\source\repos\lez04_06_Parziali\obj\Debug\net8.0\refint\lez04_06_Parziali.dll
+C:\Users\utente\source\repos\lez04_06_Parziali\obj\Debug\net8.0\lez04_06_Parziali.pdb
+C:\Users\utente\source\repos\lez04_06_Parziali\obj\Debug\net8.0\lez04_06_Parziali.genruntimeconfig.cache
+C:\Users\utente\source\repos\lez04_06_Parziali\obj\Debug\net8.0\ref\lez04_06_Parziali.dll

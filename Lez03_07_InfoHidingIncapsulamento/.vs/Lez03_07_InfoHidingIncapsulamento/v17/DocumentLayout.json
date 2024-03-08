@@ -1,0 +1,115 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\utente\\source\\repos\\Lez03_07_InfoHidingIncapsulamento\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BBB2A5B3-98B8-45CC-81BB-E96FD2EC7977}|Lez03_07_InfoHidingIncapsulamento.csproj|c:\\users\\utente\\source\\repos\\lez03_07_infohidingincapsulamento\\classes\\moto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBB2A5B3-98B8-45CC-81BB-E96FD2EC7977}|Lez03_07_InfoHidingIncapsulamento.csproj|solutionrelative:classes\\moto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBB2A5B3-98B8-45CC-81BB-E96FD2EC7977}|Lez03_07_InfoHidingIncapsulamento.csproj|c:\\users\\utente\\source\\repos\\lez03_07_infohidingincapsulamento\\classes\\bicicletta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBB2A5B3-98B8-45CC-81BB-E96FD2EC7977}|Lez03_07_InfoHidingIncapsulamento.csproj|solutionrelative:classes\\bicicletta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBB2A5B3-98B8-45CC-81BB-E96FD2EC7977}|Lez03_07_InfoHidingIncapsulamento.csproj|c:\\users\\utente\\source\\repos\\lez03_07_infohidingincapsulamento\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBB2A5B3-98B8-45CC-81BB-E96FD2EC7977}|Lez03_07_InfoHidingIncapsulamento.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBB2A5B3-98B8-45CC-81BB-E96FD2EC7977}|Lez03_07_InfoHidingIncapsulamento.csproj|c:\\users\\utente\\source\\repos\\lez03_07_infohidingincapsulamento\\classes\\monopattino.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBB2A5B3-98B8-45CC-81BB-E96FD2EC7977}|Lez03_07_InfoHidingIncapsulamento.csproj|solutionrelative:classes\\monopattino.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBB2A5B3-98B8-45CC-81BB-E96FD2EC7977}|Lez03_07_InfoHidingIncapsulamento.csproj|c:\\users\\utente\\source\\repos\\lez03_07_infohidingincapsulamento\\classes\\automobile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBB2A5B3-98B8-45CC-81BB-E96FD2EC7977}|Lez03_07_InfoHidingIncapsulamento.csproj|solutionrelative:classes\\automobile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Bicicletta.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\source\\repos\\Lez03_07_InfoHidingIncapsulamento\\Classes\\Bicicletta.cs",
+              "RelativeDocumentMoniker": "Classes\\Bicicletta.cs",
+              "ToolTip": "C:\\Users\\utente\\source\\repos\\Lez03_07_InfoHidingIncapsulamento\\Classes\\Bicicletta.cs",
+              "RelativeToolTip": "Classes\\Bicicletta.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T15:27:42.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Monopattino.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\source\\repos\\Lez03_07_InfoHidingIncapsulamento\\Classes\\Monopattino.cs",
+              "RelativeDocumentMoniker": "Classes\\Monopattino.cs",
+              "ToolTip": "C:\\Users\\utente\\source\\repos\\Lez03_07_InfoHidingIncapsulamento\\Classes\\Monopattino.cs",
+              "RelativeToolTip": "Classes\\Monopattino.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABcAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T14:31:50.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Automobile.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\source\\repos\\Lez03_07_InfoHidingIncapsulamento\\Classes\\Automobile.cs",
+              "RelativeDocumentMoniker": "Classes\\Automobile.cs",
+              "ToolTip": "C:\\Users\\utente\\source\\repos\\Lez03_07_InfoHidingIncapsulamento\\Classes\\Automobile.cs",
+              "RelativeToolTip": "Classes\\Automobile.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAQwBsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T14:31:04.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\source\\repos\\Lez03_07_InfoHidingIncapsulamento\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\utente\\source\\repos\\Lez03_07_InfoHidingIncapsulamento\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T14:29:33.771Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Moto.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\source\\repos\\Lez03_07_InfoHidingIncapsulamento\\Classes\\Moto.cs",
+              "RelativeDocumentMoniker": "Classes\\Moto.cs",
+              "ToolTip": "C:\\Users\\utente\\source\\repos\\Lez03_07_InfoHidingIncapsulamento\\Classes\\Moto.cs",
+              "RelativeToolTip": "Classes\\Moto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T14:31:21.037Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

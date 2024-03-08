@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\utente\\source\\repos\\Lez04_01_Interfacce\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1BE2F212-3EF0-48DC-8A8F-26780F2F292E}|Lez04_01_Interfacce.csproj|c:\\users\\utente\\source\\repos\\lez04_01_interfacce\\classes\\ianimale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BE2F212-3EF0-48DC-8A8F-26780F2F292E}|Lez04_01_Interfacce.csproj|solutionrelative:classes\\ianimale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BE2F212-3EF0-48DC-8A8F-26780F2F292E}|Lez04_01_Interfacce.csproj|c:\\users\\utente\\source\\repos\\lez04_01_interfacce\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BE2F212-3EF0-48DC-8A8F-26780F2F292E}|Lez04_01_Interfacce.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IAnimale.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\source\\repos\\Lez04_01_Interfacce\\Classes\\IAnimale.cs",
+              "RelativeDocumentMoniker": "Classes\\IAnimale.cs",
+              "ToolTip": "C:\\Users\\utente\\source\\repos\\Lez04_01_Interfacce\\Classes\\IAnimale.cs",
+              "RelativeToolTip": "Classes\\IAnimale.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T08:42:05.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\source\\repos\\Lez04_01_Interfacce\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\utente\\source\\repos\\Lez04_01_Interfacce\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T08:37:57.785Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
