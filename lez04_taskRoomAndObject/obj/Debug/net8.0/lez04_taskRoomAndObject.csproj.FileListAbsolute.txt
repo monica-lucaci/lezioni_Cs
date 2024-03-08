@@ -1,0 +1,15 @@
+C:\Users\utente\source\repos\lez04_taskRoomAndObject\obj\Debug\net8.0\lez04_taskRoomAndObject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\utente\source\repos\lez04_taskRoomAndObject\obj\Debug\net8.0\lez04_taskRoomAndObject.AssemblyInfoInputs.cache
+C:\Users\utente\source\repos\lez04_taskRoomAndObject\obj\Debug\net8.0\lez04_taskRoomAndObject.AssemblyInfo.cs
+C:\Users\utente\source\repos\lez04_taskRoomAndObject\obj\Debug\net8.0\lez04_taskRoomAndObject.csproj.CoreCompileInputs.cache
+C:\Users\utente\source\repos\lez04_taskRoomAndObject\obj\Debug\net8.0\lez04_taskRoomAndObject.sourcelink.json
+C:\Users\utente\source\repos\lez04_taskRoomAndObject\bin\Debug\net8.0\lez04_taskRoomAndObject.exe
+C:\Users\utente\source\repos\lez04_taskRoomAndObject\bin\Debug\net8.0\lez04_taskRoomAndObject.deps.json
+C:\Users\utente\source\repos\lez04_taskRoomAndObject\bin\Debug\net8.0\lez04_taskRoomAndObject.runtimeconfig.json
+C:\Users\utente\source\repos\lez04_taskRoomAndObject\bin\Debug\net8.0\lez04_taskRoomAndObject.dll
+C:\Users\utente\source\repos\lez04_taskRoomAndObject\bin\Debug\net8.0\lez04_taskRoomAndObject.pdb
+C:\Users\utente\source\repos\lez04_taskRoomAndObject\obj\Debug\net8.0\lez04_taskRoomAndObject.dll
+C:\Users\utente\source\repos\lez04_taskRoomAndObject\obj\Debug\net8.0\refint\lez04_taskRoomAndObject.dll
+C:\Users\utente\source\repos\lez04_taskRoomAndObject\obj\Debug\net8.0\lez04_taskRoomAndObject.pdb
+C:\Users\utente\source\repos\lez04_taskRoomAndObject\obj\Debug\net8.0\lez04_taskRoomAndObject.genruntimeconfig.cache
+C:\Users\utente\source\repos\lez04_taskRoomAndObject\obj\Debug\net8.0\ref\lez04_taskRoomAndObject.dll
