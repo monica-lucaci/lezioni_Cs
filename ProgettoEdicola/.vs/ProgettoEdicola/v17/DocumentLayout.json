@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\utente\\source\\repos\\ProgettoEdicola\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AB870D2C-8CE8-4B3F-AA42-6EEFFD85166D}|ProgettoEdicola.csproj|c:\\users\\utente\\source\\repos\\progettoedicola\\classes\\edicola.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB870D2C-8CE8-4B3F-AA42-6EEFFD85166D}|ProgettoEdicola.csproj|solutionrelative:classes\\edicola.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB870D2C-8CE8-4B3F-AA42-6EEFFD85166D}|ProgettoEdicola.csproj|c:\\users\\utente\\source\\repos\\progettoedicola\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB870D2C-8CE8-4B3F-AA42-6EEFFD85166D}|ProgettoEdicola.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB870D2C-8CE8-4B3F-AA42-6EEFFD85166D}|ProgettoEdicola.csproj|c:\\users\\utente\\source\\repos\\progettoedicola\\classes\\giornale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB870D2C-8CE8-4B3F-AA42-6EEFFD85166D}|ProgettoEdicola.csproj|solutionrelative:classes\\giornale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB870D2C-8CE8-4B3F-AA42-6EEFFD85166D}|ProgettoEdicola.csproj|c:\\users\\utente\\source\\repos\\progettoedicola\\classes\\pubblicazioni.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB870D2C-8CE8-4B3F-AA42-6EEFFD85166D}|ProgettoEdicola.csproj|solutionrelative:classes\\pubblicazioni.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB870D2C-8CE8-4B3F-AA42-6EEFFD85166D}|ProgettoEdicola.csproj|c:\\users\\utente\\source\\repos\\progettoedicola\\classes\\rivista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB870D2C-8CE8-4B3F-AA42-6EEFFD85166D}|ProgettoEdicola.csproj|solutionrelative:classes\\rivista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Rivista.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\source\\repos\\ProgettoEdicola\\Classes\\Rivista.cs",
+              "RelativeDocumentMoniker": "Classes\\Rivista.cs",
+              "ToolTip": "C:\\Users\\utente\\source\\repos\\ProgettoEdicola\\Classes\\Rivista.cs",
+              "RelativeToolTip": "Classes\\Rivista.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAYwCMAAABWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T13:30:11.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Edicola.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\source\\repos\\ProgettoEdicola\\Classes\\Edicola.cs",
+              "RelativeDocumentMoniker": "Classes\\Edicola.cs",
+              "ToolTip": "C:\\Users\\utente\\source\\repos\\ProgettoEdicola\\Classes\\Edicola.cs",
+              "RelativeToolTip": "Classes\\Edicola.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAAAB4AAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T13:19:52.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\source\\repos\\ProgettoEdicola\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\utente\\source\\repos\\ProgettoEdicola\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAQwBgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T13:19:23.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Pubblicazioni.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\source\\repos\\ProgettoEdicola\\Classes\\Pubblicazioni.cs",
+              "RelativeDocumentMoniker": "Classes\\Pubblicazioni.cs",
+              "ToolTip": "C:\\Users\\utente\\source\\repos\\ProgettoEdicola\\Classes\\Pubblicazioni.cs",
+              "RelativeToolTip": "Classes\\Pubblicazioni.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAgwBsAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T13:20:18.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Giornale.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\source\\repos\\ProgettoEdicola\\Classes\\Giornale.cs",
+              "RelativeDocumentMoniker": "Classes\\Giornale.cs",
+              "ToolTip": "C:\\Users\\utente\\source\\repos\\ProgettoEdicola\\Classes\\Giornale.cs",
+              "RelativeToolTip": "Classes\\Giornale.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAAB8AAABYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T13:29:47.062Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
