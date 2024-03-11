@@ -1,0 +1,15 @@
+C:\Users\utente\source\repos\ProgettoEdicola\bin\Debug\net8.0\ProgettoEdicola.exe
+C:\Users\utente\source\repos\ProgettoEdicola\bin\Debug\net8.0\ProgettoEdicola.deps.json
+C:\Users\utente\source\repos\ProgettoEdicola\bin\Debug\net8.0\ProgettoEdicola.runtimeconfig.json
+C:\Users\utente\source\repos\ProgettoEdicola\bin\Debug\net8.0\ProgettoEdicola.dll
+C:\Users\utente\source\repos\ProgettoEdicola\bin\Debug\net8.0\ProgettoEdicola.pdb
+C:\Users\utente\source\repos\ProgettoEdicola\obj\Debug\net8.0\ProgettoEdicola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\utente\source\repos\ProgettoEdicola\obj\Debug\net8.0\ProgettoEdicola.AssemblyInfoInputs.cache
+C:\Users\utente\source\repos\ProgettoEdicola\obj\Debug\net8.0\ProgettoEdicola.AssemblyInfo.cs
+C:\Users\utente\source\repos\ProgettoEdicola\obj\Debug\net8.0\ProgettoEdicola.csproj.CoreCompileInputs.cache
+C:\Users\utente\source\repos\ProgettoEdicola\obj\Debug\net8.0\ProgettoEdicola.sourcelink.json
+C:\Users\utente\source\repos\ProgettoEdicola\obj\Debug\net8.0\ProgettoEdicola.dll
+C:\Users\utente\source\repos\ProgettoEdicola\obj\Debug\net8.0\refint\ProgettoEdicola.dll
+C:\Users\utente\source\repos\ProgettoEdicola\obj\Debug\net8.0\ProgettoEdicola.pdb
+C:\Users\utente\source\repos\ProgettoEdicola\obj\Debug\net8.0\ProgettoEdicola.genruntimeconfig.cache
+C:\Users\utente\source\repos\ProgettoEdicola\obj\Debug\net8.0\ref\ProgettoEdicola.dll

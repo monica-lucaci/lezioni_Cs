@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "lez05_03_File/1.0.0": {
+        "runtime": {
+          "lez05_03_File.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "lez05_03_File/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
