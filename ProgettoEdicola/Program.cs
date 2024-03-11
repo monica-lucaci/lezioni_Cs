@@ -56,6 +56,7 @@ namespace ProgettoEdicola
            
             DateTime dataScadenza1 = DateTime.Now.AddMonths(6); 
             Cliente cliente2 = new Cliente("Giulia", "Verdi", 28);
+            Cliente cliente3 = new Cliente("Monica", "Monica", 32);
             DateTime dataScadenza2 = DateTime.Now.AddMonths(12);
 
             laMiaEdicola.SottoscriviRivista(cliente1, (Rivista)tre, dataScadenza1);
