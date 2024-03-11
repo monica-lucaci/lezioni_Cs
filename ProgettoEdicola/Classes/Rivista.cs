@@ -8,32 +8,33 @@ namespace ProgettoEdicola.Classes
 {
     internal class Rivista : Pubblicazioni
     {
-        public string? Tipo { get; set; }
+        //ATTRIBUTI
+        public string? Categoria { get; set; }
 
-        protected static int quantitaRiviste;
-
+        protected static int QuantitaRiviste { get; set; } = 0;
 
         //COSTRUTTORE
-        public Rivista(string? titolo, DateTime dataPubblicazione, bool hasDisponibilita, string? tipo)
+        public Rivista(string? titolo, float prezzo, string? codice, DateTime dataPubblicazione, bool hasDisponibilita, string? categoria)
         {
             Titolo = titolo;
+            Prezzo = prezzo;
+            Codice = codice;
             DataPubblicazione = dataPubblicazione;
             HasDisponibilita = hasDisponibilita;
-            Tipo = tipo;
-            quantitaRiviste++;
+            Categoria = categoria;
+            QuantitaRiviste++;
+            QuantitaDisponibile = 1;
         }
 
-
-        public static int QuantitaRiviste
+        //METODI
+      
+        public override void StampaDettagli()
         {
-            get { return quantitaRiviste; }
+            Console.WriteLine($"[RIVISTA] {Titolo} {Prezzo} {Categoria} {HasDisponibilita} {QuantitaRiviste}");
         }
-
-
-
-        public override void stampaDettagli()
+        public void DiminuisciRiviste()
         {
-            Console.WriteLine($"[RIVISTA] {Titolo} {HasDisponibilita} {QuantitaRiviste}");
+            QuantitaRiviste--;
         }
 
 

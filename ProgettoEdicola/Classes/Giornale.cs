@@ -8,29 +8,34 @@ namespace ProgettoEdicola.Classes
 {
     internal class Giornale : Pubblicazioni
     {
-        public string? Tipo { get; set; }
+        //ATTRIBUTI
+        public string? Redazione { get; set; }
 
-        protected static int quantitaGiornali;
+        protected static int QuantitaGiornali { get; set; } = 0;
 
-        public Giornale(string? titolo, DateTime dataPubblicazione, bool hasDisponibilita, string? tipo)
-        {
+        //COSTRUTTORE
+        public Giornale(float prezzo, string? codice, string? titolo, DateTime dataPubblicazione, bool hasDisponibilita, string? redazione)
+        {  
+            Prezzo = prezzo;
+            Codice = codice;
             Titolo = titolo;
             DataPubblicazione = dataPubblicazione;
             HasDisponibilita = hasDisponibilita;
-            Tipo = tipo;
-            quantitaGiornali++;
+            Redazione = redazione;
+            QuantitaGiornali++;
+            QuantitaDisponibile = 1;
 
         }
-
-        public static int QuantitaGiornali
+        public override void StampaDettagli()
         {
-            get { return quantitaGiornali; }
+            Console.WriteLine($"[GIORNALE] {Titolo} {Redazione} {Prezzo} {HasDisponibilita} {QuantitaGiornali}");
         }
 
-        public override void stampaDettagli()
+        public void DiminuisciGiornali()
         {
-            Console.WriteLine($"[GIORNALE] {Titolo} {HasDisponibilita} {QuantitaGiornali}");
+            QuantitaGiornali--;
         }
+    
     }
 
 

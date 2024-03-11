@@ -1,0 +1,15 @@
+C:\Users\utente\source\repos\Lez05_04_Prova\bin\Debug\net8.0\Lez05_04_Prova.exe
+C:\Users\utente\source\repos\Lez05_04_Prova\bin\Debug\net8.0\Lez05_04_Prova.deps.json
+C:\Users\utente\source\repos\Lez05_04_Prova\bin\Debug\net8.0\Lez05_04_Prova.runtimeconfig.json
+C:\Users\utente\source\repos\Lez05_04_Prova\bin\Debug\net8.0\Lez05_04_Prova.dll
+C:\Users\utente\source\repos\Lez05_04_Prova\bin\Debug\net8.0\Lez05_04_Prova.pdb
+C:\Users\utente\source\repos\Lez05_04_Prova\obj\Debug\net8.0\Lez05_04_Prova.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\utente\source\repos\Lez05_04_Prova\obj\Debug\net8.0\Lez05_04_Prova.AssemblyInfoInputs.cache
+C:\Users\utente\source\repos\Lez05_04_Prova\obj\Debug\net8.0\Lez05_04_Prova.AssemblyInfo.cs
+C:\Users\utente\source\repos\Lez05_04_Prova\obj\Debug\net8.0\Lez05_04_Prova.csproj.CoreCompileInputs.cache
+C:\Users\utente\source\repos\Lez05_04_Prova\obj\Debug\net8.0\Lez05_04_Prova.sourcelink.json
+C:\Users\utente\source\repos\Lez05_04_Prova\obj\Debug\net8.0\Lez05_04_Prova.dll
+C:\Users\utente\source\repos\Lez05_04_Prova\obj\Debug\net8.0\refint\Lez05_04_Prova.dll
+C:\Users\utente\source\repos\Lez05_04_Prova\obj\Debug\net8.0\Lez05_04_Prova.pdb
+C:\Users\utente\source\repos\Lez05_04_Prova\obj\Debug\net8.0\Lez05_04_Prova.genruntimeconfig.cache
+C:\Users\utente\source\repos\Lez05_04_Prova\obj\Debug\net8.0\ref\Lez05_04_Prova.dll
